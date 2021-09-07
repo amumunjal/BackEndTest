@@ -1,7 +1,10 @@
 # BackEndTest
 
-API tests for the SBS Practice Test
+<br>API tests for the SBS Practice Test</br>
 
-HOW TO RUN TESTS
-(Install dependencies) npm install
-(Run tests) npm test
+<br><b>HOW TO RUN TESTS</b></br>
+<br>Install latest Node.JS</br>
+<br>Install latest Visual Studio Code</br>
+<br>Open Terminal and Navigate to Project Directory</br>
+<br>Run $ npm install</br>
+<br>Run $ npm test</br>
